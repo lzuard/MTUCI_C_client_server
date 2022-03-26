@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/izuard/inform_ptushkin/client/main.c
+stdio.h
+-
+stdio.h
+-
+unistd.h
+-
+sys/socket.h
+-
+string.h
+-
+sys/un.h
+-
+sys/errno.h
+-
+stdlib.h
+-
+signal.h
+-
+netinet/in.h
+-
+

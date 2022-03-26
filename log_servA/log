@@ -1,0 +1,13 @@
+Server started successfully
+Listen established
+Connected new socket - 4
+Socket 4 - new request: cache
+Socket 4 - sent data: CPU cache sizes (kb): L1I - -2076415, L1D - -1798492, L2 - 0, L3 - 1754397
+Socket 4 - new request: vmuse
+Socket 4 - sent data: Virtual memory in use: 4375427612
+Socket 4 - new request: vmuse
+Socket 4 - new request: vmuse
+Socket 4 - sent data: Virtual memory in use: 4375427612
+Connected new socket - 5
+Socket 5 - new request: cache
+Socket 5 - sent data: CPU cache sizes (kb): L1I - -2076415, L1D - -1798492, L2 - 0, L3 - 1754397
